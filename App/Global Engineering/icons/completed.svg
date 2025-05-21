@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ffa33e;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 57px;
+      }
+
+      .cls-2 {
+        fill: #af5f10;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.7, SVG Export Plug-In . SVG Version: 1.2.0 Build 194)  -->
+  <g>
+    <g id="Layer_1">
+      <circle class="cls-2" cx="304.9" cy="302.7" r="276.9"/>
+      <polyline class="cls-1" points="198.9 311.1 264 376.2 410.9 229.3"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,670 @@
+[
+    {
+        "File No.": "8000009",
+        "Customer Name": "Fahad",
+        "Date": "17/01/2025",
+        "Mobile Number": "56598-88989",
+        "District": "Banaskantha",
+        "State": "GUJARAT",
+        "R.S.No./ Block No.": "Block No.",
+        "New No.": "25",
+        "Old No.": "00",
+        "Plot No.": "105",
+        "Taluka": "Vadgam",
+        "Village": "mahi",
+        "Final Amount": "5000",
+        "Remark": "fff",
+        "Work Types": [
+            "Land Meserment",
+            "Binkheti"
+        ],
+        "Work Done": [
+            "Aslam Dhukka",
+            "Yusufbhai",
+            "Parth"
+        ],
+        "Party Address": "'State': 'GUJARAT', 'District': 'Banaskantha', 'Taluka': 'Vadgam', 'Village': 'mahi'",
+        "Payment Status": "Half Paid",
+        "Work Status": "Pending",
+        "Payments": [
+            {
+                "Amount Paid": "1000.00",
+                "Payment Date": "19/01/2025",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            },
+            {
+                "Amount Paid": "1000.00",
+                "Payment Date": "19/01/2025",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            }
+        ]
+    },
+    {
+        "File No.": "000044444",
+        "Customer Name": "Manjoor",
+        "Date": "17/01/2025",
+        "Mobile Number": "65588-89898",
+        "District": "Banaskantha",
+        "State": "GUJARAT",
+        "R.S.No./ Block No.": "City S.R.",
+        "New No.": "058",
+        "Old No.": "00",
+        "Plot No.": "285",
+        "Taluka": "Vadgam",
+        "Village": "bavalchudi",
+        "Final Amount": "25000",
+        "Remark": "good",
+        "Work Types": [
+            "Binkheti",
+            "Lay Out Passing"
+        ],
+        "Work Done": [],
+        "Party Address": "'State': 'GUJARAT', 'District': 'Banaskantha', 'Taluka': 'Vadgam', 'Village': 'Bavalchudi'",
+        "Payment Status": "Completed",
+        "Payments": [
+            {
+                "Amount Paid": "1000.00",
+                "Payment Date": "17/01/2025",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            },
+            {
+                "Amount Paid": "1000.00",
+                "Payment Date": "17/01/2025",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            },
+            {
+                "Amount Paid": "1000.00",
+                "Payment Date": "17/01/2025",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            },
+            {
+                "Amount Paid": "22000.00",
+                "Payment Date": "17/01/2025",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            }
+        ],
+        "Work Status": "Approved",
+        "Payment Prrovel status": "done"
+    },
+    {
+        "File No.": "5998",
+        "Customer Name": "farhan",
+        "Date": "16/01/2025",
+        "Mobile Number": "59589-98859",
+        "District": "Banaskantha",
+        "State": "GUJARAT",
+        "R.S.No./ Block No.": "City S.R.",
+        "New No.": "56",
+        "Old No.": "656",
+        "Plot No.": "65",
+        "Taluka": "Vadgam",
+        "Village": "bavalchudi",
+        "Final Amount": "8000",
+        "Remark": "tyr",
+        "Work Types": [
+            "Binkheti",
+            "Lay Out Passing"
+        ],
+        "Work Done": [
+            "Yusufbhai",
+            "Parth"
+        ],
+        "Party Address": {
+            "State": "Select State",
+            "District": "Select District",
+            "Taluka": "Select Taluka",
+            "Village": "Select Village"
+        },
+        "Payment Status": "Completed",
+        "Work Status": "Approved",
+        "Payments": [
+            {
+                "Amount Paid": "8000.00",
+                "Payment Date": "17/01/2025",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            }
+        ],
+        "Payment Prrovel status": "done"
+    },
+    {
+        "File No.": "100005",
+        "Customer Name": "Abbas",
+        "Date": "02/01/2025",
+        "Mobile Number": "47889-89859",
+        "District": "banaskantha",
+        "State": "gujarat",
+        "R.S.No./ Block No.": "Block No.",
+        "New No.": "055",
+        "Old No.": "00",
+        "Plot No.": "118",
+        "Taluka": "vadgam",
+        "Village": "bavalchudi",
+        "Final Amount": "5000",
+        "Remark": "good",
+        "Work Types": [
+            "Land Meserment"
+        ],
+        "Work Done": [
+            "Aslam Dhukka"
+        ],
+        "Party Address": {
+            "State": "good",
+            "District": "good",
+            "Taluka": "good",
+            "Village": "good",
+            "Vas Name": "good"
+        },
+        "Payment Status": "Completed",
+        "Payments": [
+            {
+                "Amount Paid": "1000.00",
+                "Payment Date": "08/01/2025",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            },
+            {
+                "Amount Paid": "1000.00",
+                "Payment Date": "16/01/2025",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            },
+            {
+                "Amount Paid": "1000.00",
+                "Payment Date": "16/01/2025",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            },
+            {
+                "Amount Paid": "1000.00",
+                "Payment Date": "17/01/2025",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            },
+            {
+                "Amount Paid": "1000.00",
+                "Payment Date": "17/01/2025",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            }
+        ],
+        "Work Status": "Pending"
+    },
+    {
+        "File No.": "1450",
+        "Customer Name": "ismail jagral",
+        "Date": "01/01/2025",
+        "Mobile Number": "89774-58795",
+        "District": "amirgadh",
+        "State": "rjasthan",
+        "R.S.No./ Block No.": "R.S.No.",
+        "New No.": "1005",
+        "Old No.": "00",
+        "Plot No.": "180",
+        "Taluka": "diiodar",
+        "Village": "islampura",
+        "Final Amount": "7000",
+        "Remark": "good",
+        "Work Types": [
+            "Binkheti",
+            "Lay Out Passing"
+        ],
+        "Work Done": [
+            "Yusufbhai",
+            "Parth"
+        ],
+        "Party Address": {
+            "State": "rock",
+            "District": "rock",
+            "Taluka": "rock",
+            "Village": "rock",
+            "Vas Name": "rock"
+        },
+        "Payment Status": "Completed",
+        "Payments": [
+            {
+                "Amount Paid": "7000.00",
+                "Payment Date": "17/01/2025",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            }
+        ],
+        "Work Status": "Approved",
+        "Payment Prrovel status": "done"
+    },
+    {
+        "File No.": "98",
+        "Customer Name": "ttttt",
+        "Date": "31/12/2024",
+        "Mobile Number": "88978-88877",
+        "District": "ttttt",
+        "R.S.No./ Block No.": "R.S.No.",
+        "New No.": "4589",
+        "Old No.": "00",
+        "Taluka": "ttttt",
+        "Village": "ttttt",
+        "Final Amount": "12000",
+        "Work Types": [
+            "KJP"
+        ],
+        "Work Done": [
+            "Kishan"
+        ],
+        "Work Status": "Approved",
+        "Payment Status": "Completed",
+        "Payments": [
+            {
+                "Amount Paid": "12000.00",
+                "Payment Date": "31/12/2024",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            }
+        ],
+        "Payment Prrovel status": "done"
+    },
+    {
+        "File No.": "1588",
+        "Customer Name": "RRRRR",
+        "Date": "31/12/2024",
+        "Mobile Number": "88788-98899",
+        "District": "RRRRR",
+        "R.S.No./ Block No.": "City S.R.",
+        "New No.": "105",
+        "Old No.": "00",
+        "Taluka": "RRRRR",
+        "Village": "RRRRR",
+        "Final Amount": "8000",
+        "Work Types": [
+            "KJP",
+            "City Surve"
+        ],
+        "Work Done": [
+            "Kishan",
+            "Hannan"
+        ],
+        "Work Status": "Approved",
+        "Payment Status": "Half Paid",
+        "Payments": [
+            {
+                "Amount Paid": "4000.00",
+                "Payment Date": "08/01/2025",
+                "Payment Method": "Cheque",
+                "Cheque No.": "sdsdsds",
+                "Cheque Date": "08/01/2025",
+                "Status": "Completed"
+            }
+        ]
+    },
+    {
+        "File No.": "78",
+        "Customer Name": "Mujahid",
+        "Date": "30/12/2024",
+        "Mobile Number": "98748-79587",
+        "District": "banakantha",
+        "R.S.No./ Block No.": "Block No.",
+        "New No.": "80",
+        "Old No.": "98",
+        "Taluka": "vadgam",
+        "Village": "chhapi",
+        "Final Amount": "20000",
+        "Work Types": [
+            "Mapnisheet",
+            "KJP"
+        ],
+        "Work Done": [
+            "Kishan"
+        ],
+        "Payment Status": "Completed",
+        "Payments": [
+            {
+                "Amount Paid": "20000.00",
+                "Payment Date": "31/12/2024",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            }
+        ],
+        "Work Status": "Approved",
+        "Payment Prrovel status": "done"
+    },
+    {
+        "File No.": "88",
+        "Customer Name": "ggdf",
+        "Date": "28/12/2024",
+        "Mobile Number": "88888-8888",
+        "District": "gfdg",
+        "R.S.No./ Block No.": "Gamtad",
+        "New No.": "88",
+        "Old No.": "55",
+        "Taluka": "gdfg",
+        "Village": "fdg",
+        "Final Amount": "8000",
+        "Work Types": [
+            "Land Meserment"
+        ],
+        "Work Done": [
+            "Aslam Dhukka"
+        ],
+        "Payment Status": "Completed",
+        "Payments": [
+            {
+                "Amount Paid": "8000.00",
+                "Payment Date": "31/12/2024",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            }
+        ],
+        "Work Status": "Approved",
+        "Payment Prrovel status": "done"
+    },
+    {
+        "File No.": "99",
+        "Customer Name": "fdgfdg",
+        "Date": "28/12/2024",
+        "Mobile Number": "88888-88888",
+        "District": "dffdg",
+        "R.S.No./ Block No.": "Block No.",
+        "New No.": "80",
+        "Old No.": "00",
+        "Taluka": "fdgfd",
+        "Village": "gfg",
+        "Final Amount": "7000",
+        "Work Types": [
+            "Mapnisheet",
+            "KJP"
+        ],
+        "Work Done": [
+            "Parth",
+            "Kishan"
+        ],
+        "Payment Status": "Completed",
+        "Payments": [
+            {
+                "Amount Paid": "7000.00",
+                "Payment Date": "28/12/2024",
+                "Payment Method": "UPI",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            }
+        ],
+        "Work Status": "Approved",
+        "Payment Prrovel status": "done"
+    },
+    {
+        "File No.": "85",
+        "Customer Name": "fsd",
+        "Date": "27/12/2024",
+        "Mobile Number": "84858-58555",
+        "District": "sdsdfs",
+        "R.S.No./ Block No.": "R.S.No.",
+        "New No.": "80",
+        "Old No.": "80",
+        "Taluka": "sdf",
+        "Village": "fsdf",
+        "Final Amount": "2000",
+        "Work Types": [
+            "Land Meserment",
+            "Binkheti"
+        ],
+        "Work Done": [],
+        "Payment Status": "Completed",
+        "Payments": [
+            {
+                "Amount Paid": "1000.00",
+                "Payment Date": "27/12/2024",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            },
+            {
+                "Amount Paid": "1000.00",
+                "Payment Date": "27/12/2024",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            }
+        ],
+        "Work Status": "Approved",
+        "Payment Prrovel status": "done"
+    },
+    {
+        "File No.": "101",
+        "Customer Name": "Muhammad",
+        "Date": "27/12/2024",
+        "Mobile Number": "89574-89874",
+        "District": "BK",
+        "R.S.No./ Block No.": "R.S.No.",
+        "New No.": "80",
+        "Old No.": "00",
+        "Taluka": "Vadgam",
+        "Village": "majadar",
+        "Final Amount": "10000",
+        "Work Types": [
+            "KJP",
+            "City Surve"
+        ],
+        "Work Done": [
+            "Hannan"
+        ],
+        "Payment Status": "Completed",
+        "Payments": [
+            {
+                "Amount Paid": "10000.00",
+                "Payment Date": "28/12/2024",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            }
+        ],
+        "Work Status": "Approved",
+        "Payment Prrovel status": "done"
+    },
+    {
+        "File No.": "01",
+        "Customer Name": "fffff",
+        "Date": "23/12/2024",
+        "Mobile Number": "11111-11111",
+        "District": "fffff",
+        "R.S.No./ Block No.": "R.S.No.",
+        "New No.": "101",
+        "Old No.": "100",
+        "Taluka": "ffff",
+        "Village": "ffff",
+        "Final Amount": "5000",
+        "Work Types": [
+            "KJP",
+            "City Surve"
+        ],
+        "Work Done": [
+            "Kishan",
+            "Hannan"
+        ],
+        "Payment Status": "Completed",
+        "Work Status": "Approved",
+        "Payments": [
+            {
+                "Amount Paid": "5000.00",
+                "Payment Date": "31/12/2024",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            }
+        ],
+        "Payment Prrovel status": "done"
+    },
+    {
+        "File No.": "102",
+        "Customer Name": "Mohsin",
+        "Date": "23/12/2024",
+        "Mobile Number": "88787-48758",
+        "District": "BK",
+        "R.S.No./ Block No.": "Block No.",
+        "New No.": "80",
+        "Old No.": "00",
+        "Taluka": "Vadgam",
+        "Village": "Chhapi",
+        "Final Amount": "5000",
+        "Work Types": [
+            "Land Meserment",
+            "Binkheti"
+        ],
+        "Work Done": [
+            "Irfan",
+            "Aslam Dhukka"
+        ],
+        "Payment Status": "Completed",
+        "Payments": [
+            {
+                "Amount Paid": "5000.00",
+                "Payment Date": "27/12/2024",
+                "Payment Method": "Cash",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            }
+        ],
+        "Work Status": "Approved",
+        "Payment Prrovel status": "done"
+    },
+    {
+        "File No.": "40",
+        "Customer Name": "Adil valuda",
+        "Date": "16/12/2024",
+        "Mobile Number": "22222-22222",
+        "District": "ahmedabad",
+        "R.S.No./ Block No.": "Block No.",
+        "New No.": "80",
+        "Old No.": "00",
+        "Taluka": "vadgam",
+        "Village": "rajosna",
+        "Final Amount": "7000",
+        "Work Types": [
+            "Land Meserment",
+            "Lay Out Passing"
+        ],
+        "Work Done": [
+            "Irfan",
+            "Kishan"
+        ],
+        "Payment Status": "Completed",
+        "Work Status": "Approved",
+        "Payments": [
+            {
+                "Amount Paid": "7000.00",
+                "Payment Date": "31/12/2024",
+                "Payment Method": "NEFT",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            }
+        ],
+        "Payment Prrovel status": "done"
+    },
+    {
+        "File No.": "79",
+        "Customer Name": "Ahsan",
+        "Date": "11/12/2024",
+        "Mobile Number": "88888-58888",
+        "District": "BK",
+        "R.S.No./ Block No.": "Block No.",
+        "New No.": "877",
+        "Old No.": "700",
+        "Taluka": "drsds",
+        "Village": "Chhapi",
+        "Final Amount": "5000",
+        "Work Types": [
+            "Mapnisheet",
+            "KJP"
+        ],
+        "Work Done": [
+            "Kishan",
+            "Hannan"
+        ],
+        "Work Status": "Approved",
+        "Payment Status": "Pending",
+        "Payments": []
+    },
+    {
+        "File No.": "21",
+        "Customer Name": "mmmmm",
+        "Date": "11/12/2024",
+        "Mobile Number": "89889-98989",
+        "District": "mmmmmmmmmm",
+        "R.S.No./ Block No.": "Block No.",
+        "New No.": "85",
+        "Old No.": "00",
+        "Taluka": "mmmmm",
+        "Village": "mmmmm",
+        "Final Amount": "10000",
+        "Work Types": [
+            "Land Meserment",
+            "Lay Out Passing"
+        ],
+        "Work Done": [
+            "Yusufbhai"
+        ],
+        "Work Status": "Approved",
+        "Payment Status": "Completed",
+        "Payments": [
+            {
+                "Amount Paid": "2000.00",
+                "Payment Date": "17/12/2024",
+                "Payment Method": "NEFT",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            },
+            {
+                "Amount Paid": "8000.00",
+                "Payment Date": "31/12/2024",
+                "Payment Method": "UPI",
+                "Cheque No.": "",
+                "Cheque Date": "",
+                "Status": "Completed"
+            }
+        ],
+        "Payment Prrovel status": "done"
+    }
+]

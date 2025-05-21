@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 161.7 198.3">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #ffe2d7;
+      }
+
+      .st1 {
+        fill: #a5411e;
+      }
+
+      .st2 {
+        fill: #bc542b;
+      }
+
+      .st3 {
+        fill: #ea6b32;
+      }
+    </style>
+  </defs>
+  <path class="st3" d="M147.8,198.3H13.9C6.2,198.3,0,192.1,0,184.4V35.8c0-4.1,1.6-8,4.5-10.9L24.9,4.5c2.9-2.9,6.8-4.5,10.9-4.5h112c7.7,0,13.9,6.2,13.9,13.9v170.4c0,7.7-6.2,13.9-13.9,13.9Z"/>
+  <rect class="st0" x="22.2" y="45.3" width="33.2" height="33.2" rx="7.9" ry="7.9"/>
+  <rect class="st2" x="22.2" y="94.2" width="33.2" height="33.2" rx="7.9" ry="7.9"/>
+  <rect class="st1" x="22.2" y="140.7" width="33.2" height="33.2" rx="7.9" ry="7.9"/>
+  <rect class="st0" x="67.7" y="53.5" width="56.3" height="6.6" rx="3.3" ry="3.3" transform="translate(191.7 113.6) rotate(180)"/>
+  <rect class="st0" x="67.7" y="66.9" width="71.8" height="6.6" rx="3.3" ry="3.3" transform="translate(207.3 140.4) rotate(-180)"/>
+  <rect class="st2" x="67.7" y="103.1" width="56.3" height="6.6" rx="3.3" ry="3.3" transform="translate(191.7 212.8) rotate(180)"/>
+  <rect class="st2" x="67.7" y="116.5" width="71.8" height="6.6" rx="3.3" ry="3.3" transform="translate(207.3 239.6) rotate(180)"/>
+  <rect class="st1" x="67.7" y="150.2" width="56.3" height="6.6" rx="3.3" ry="3.3" transform="translate(191.7 307.1) rotate(180)"/>
+  <rect class="st1" x="67.7" y="163.6" width="71.8" height="6.6" rx="3.3" ry="3.3" transform="translate(207.3 333.9) rotate(-180)"/>
+</svg>
