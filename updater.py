@@ -9,7 +9,7 @@ import json
 class Updater:
     def __init__(self):
         self.current_version = "1.0.0"  # Current version of your app
-        self.github_repo = "YOUR_GITHUB_USERNAME/global-engineering-app"  # Replace YOUR_GITHUB_USERNAME with your actual GitHub username
+        self.github_repo = "aesanjagral/global-engineering-app"  # Replace YOUR_GITHUB_USERNAME with your actual GitHub username
         self.update_url = f"https://api.github.com/repos/{self.github_repo}/releases/latest"
         
     def check_for_updates(self):
